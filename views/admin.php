@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    Error
+    Admin
   </body>
 </html>

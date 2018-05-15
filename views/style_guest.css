@@ -1,0 +1,72 @@
+div {
+  box-sizing: border-box;
+}
+
+
+.fnull{
+    clear: both;
+}
+
+
+
+body{
+  width: 80%;
+  margin:auto;
+  background-color: #999999;
+  font-family: fantasy;
+}
+
+#maincontent{
+}
+#header{
+  height :15vh;
+  font-size: 26px;
+  padding-top: 20px;
+  text-align: center;
+  font-family: fantasy;
+  background-color: #333333;
+  color : #ccc;
+  padding-bottom: 20px;
+}
+#content{
+  background-color: #fff;
+  margin: auto;
+  padding: 10px;
+}
+#postarea{
+  background-color: #fff;
+  width :40vw;
+  float :left;
+}
+
+.postclass{
+    font-family: cursive;
+    background-color: #f2f2f2;
+    padding: 5px;
+    margin:10px;
+}
+
+.postclass h1 {
+  text-align: center;
+  color:#fff;
+  background-color: #999;
+}
+
+.postclass p {
+
+  color:#fff;
+  background-color: #999;
+}
+
+
+#formarea{
+  background-color: #f2f2f2;
+  width :30vw;
+  float: right;
+}
+#formarea h2 {
+  background-color: #333;
+  text-align: center;
+  font-size: 26px;
+  color : #fff;
+}
